@@ -1,4 +1,4 @@
-# WEST NILE VIRUZ OUTBREAK PREDICTIONS IN CHICAGO
+# WEST NILE VIRUS OUTBREAK PREDICTIONS IN CHICAGO
 Project on predicting West Nile Virus outbreaks in Chicago
 
 ---
