@@ -10,7 +10,12 @@ Data was used to create probabilities that traps would test postive for west nil
 Our team took a five step approach to the model:
 
 1. Identify the Problem
+- Identify probable time periods when West Nile Outbreak could occur in traps
 2. Obtain the Data
+- Imbalanced Dataset
 3. Clean the Data
+- Merge Weather Data
 4. Create Model
+- Grid Search Base model: Log Reg or ADABoost
 5. Evaluate Model
+- ROC-AUC Score of 0.77
