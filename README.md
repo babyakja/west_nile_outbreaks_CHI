@@ -10,9 +10,13 @@ Data was used to create probabilities that traps would test postive for west nil
 Our team took a five step approach to the model:
 
 1. Identify the Problem
+
 Identify probablity that west nile would be present at trap locations across Chicago at diferent times of the year.
+
 2. Obtain the Data
-- Imbalanced Dataset
+
+The dataset was provided from a Kaggle competition and contained three years of data in the train dataset as well as two years of data in the test dataset.
+
 3. Clean the Data
 - Merge Weather Data
 4. Create Model
