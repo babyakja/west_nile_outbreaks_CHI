@@ -10,7 +10,7 @@ Data was used to create probabilities that traps would test postive for west nil
 Our team took a five step approach to the model:
 
 1. Identify the Problem
-- Identify probable time periods when West Nile Outbreak could occur in traps
+Identify probablity that west nile would be present at trap locations across Chicago at diferent times of the year.
 2. Obtain the Data
 - Imbalanced Dataset
 3. Clean the Data
